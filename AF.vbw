@@ -1,0 +1,11 @@
+Module1 = 826, 257, 2087, 1082, C
+formAddDocument = 1433, 103, 2666, 1159, C, 1042, 441, 2677, 1099, C
+formAddNote = 1382, 78, 2567, 1020, C, 1127, 401, 2277, 904, C
+formAddRecoding = 392, 52, 1932, 1101, C, 338, 338, 2700, 1223, C
+formAddCabinet = 1678, 344, 2750, 1025, C, 209, 221, 1368, 824, C
+formAddChronicles = 1328, 38, 2691, 1101, C, 355, 579, 1386, 1119, C
+formTracker = 1307, -2, 2700, 993, , 135, 70, 1387, 1026, C
+formActiveFolders = 0, 107, 1562, 1238, , 59, 90, 1481, 867, C
+modMoveNode = 1229, 277, 2498, 1272, C
+ChildNodes = 0, 0, 0, 0, C
+clsNode = 0, 0, 0, 0, C
