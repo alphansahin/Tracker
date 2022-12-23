@@ -1,5 +1,5 @@
 # tracker
-Here is my Tracker which I have started to code it around 2010. I often use it to track the papers and other research-related items. It is a primitive version of Mendeley, but there are unique feature that I rely on, particularly active folder concept. Current features by December 2022:
+Here is my Tracker that I coded it around 2010 with a very old tool, i.e., Visual Basic 6.0. It is a primitive version of Mendeley, but there are unique feature that I rely on, particularly active folder concept. I often use it to track the papers and other research-related items. Current features by December 2022:
 
 -Organize the papers automatically with the "active folders" concept 
 -A systematic way to archive hundreds of papers and a cleaner desktop
