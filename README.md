@@ -1,4 +1,4 @@
-# tracker
+# Tracker
 Here is my Tracker that I coded it around 2010 with a very old tool, i.e., Visual Basic 6.0. It is a primitive version of Mendeley, but there are unique feature that I rely on, particularly active folder concept. I often use it to track the papers and other research-related items. Current features by December 2022:
 
 -Organize the papers automatically with the "active folders" concept 
